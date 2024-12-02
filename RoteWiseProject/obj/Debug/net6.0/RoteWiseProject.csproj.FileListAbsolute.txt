@@ -1,0 +1,105 @@
+D:\RoteWiseProject\bin\Debug\net6.0\appsettings.Development.json
+D:\RoteWiseProject\bin\Debug\net6.0\appsettings.json
+D:\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.exe
+D:\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.deps.json
+D:\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.runtimeconfig.json
+D:\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.dll
+D:\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.pdb
+D:\RoteWiseProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Neo4j.Driver.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RoteWiseProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.AssemblyReference.cache
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfoInputs.cache
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfo.cs
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CoreCompileInputs.cache
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cs
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cache
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.RoteWiseProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.build.RoteWiseProject.props
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoteWiseProject.props
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoteWiseProject.props
+D:\RoteWiseProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RoteWiseProject\obj\Debug\net6.0\scopedcss\bundle\RoteWiseProject.styles.css
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CopyComplete
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.dll
+D:\RoteWiseProject\obj\Debug\net6.0\refint\RoteWiseProject.dll
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.pdb
+D:\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.genruntimeconfig.cache
+D:\RoteWiseProject\obj\Debug\net6.0\ref\RoteWiseProject.dll
+D:\RoteWiseProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\appsettings.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.exe
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.deps.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.runtimeconfig.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.pdb
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Neo4j.Driver.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfo.cs
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\scopedcss\bundle\RoteWiseProject.styles.css
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CopyComplete
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\refint\RoteWiseProject.dll
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.pdb
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.genruntimeconfig.cache
+H:\תכנות שנה ב תשפד\תלמידות\מיכל גוטל\RoteWiseProject\obj\Debug\net6.0\ref\RoteWiseProject.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.exe
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.deps.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.runtimeconfig.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\RoteWiseProject.pdb
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Neo4j.Driver.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.sourcelink.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.RoteWiseProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.build.RoteWiseProject.props
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoteWiseProject.props
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoteWiseProject.props
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\scopedcss\bundle\RoteWiseProject.styles.css
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\refint\RoteWiseProject.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.pdb
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\RoteWiseProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\obj\Debug\net6.0\ref\RoteWiseProject.dll
+C:\Users\USER\Desktop\Route-Wise\RoteWiseProject\bin\Debug\net6.0\CsvHelper.dll
